@@ -6,9 +6,59 @@
     <description>Recent content in Homes on Michael Shen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Michael Shen</copyright>
+    <copyright>&amp;copy; 2019 Michael Shen</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://shenshifo.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://shenshifo.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shenshifo.github.io/home/about/</guid>
+      <description>Hi, I am a Ph.D. candidate in Accounting at Michigan State University and on the 2017-2018 accounting job market. I will be at the 2017 Accounting Ph.D. Rookie Recruiting and Research Camp for interviews.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://shenshifo.github.io/home/research/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shenshifo.github.io/home/research/</guid>
+      <description>Labor Market Consequences of Restatements for Corporate Accountants (Job Market Paper)
+ Presentations: 2018 AAA FARS Conference (Accepted to present), 2017 AAA/Deloitte/J. Michael Cook Doctoral Consortium, 2017 MSU Brown Bag Summary: I examine the impact of restatements on the labor market outcomes for corporate accountants. I use LinkedIn to identify a comprehensive sample of corporate accountants who work for firms that restated their financial statements between 2004 and 2014. My findings suggest that the labor market disciplines corporate accountants after restatements are announced.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://shenshifo.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shenshifo.github.io/home/teaching/</guid>
+      <description>I taught the following courses at Michigan State University:
+ ACC301: Intermediate Financial Accounting II (2016 Summer) ACC301: Intermediate Financial Accounting II (2016 Fall)  </description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>https://shenshifo.github.io/home/awards/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shenshifo.github.io/home/awards/</guid>
+      <description>Selected honors and awards:
+ AAA/Deloitte/J. Michael Cook Doctoral Consortium fellow AAA FARS Excellence in Reviewing Award Ph.D. Student Excellence in Teaching Award  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://shenshifo.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://shenshifo.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
